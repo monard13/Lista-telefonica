@@ -1,0 +1,5 @@
+{
+  "name": "Checklist de Llamadas",
+  "description": "Una aplicación de lista de verificación para rastrear llamadas telefónicas pendientes. Marque los números a medida que los llama.",
+  "requestFramePermissions": []
+}
